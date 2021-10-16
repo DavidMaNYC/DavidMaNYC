@@ -5,7 +5,7 @@
 - 👨‍💻 I love learning new technologies to expand my knowledge.
 - 👾 I’m looking to collaborate with other software engineers to build cool projects.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
-- 🏋️ Fun fact: I can squat the weight of a male grizzly bear 🐻.
+- 🏋️ Fun fact: I can squat the weight of a grizzly bear 🐻.
 
 ### Linkedin:
 
