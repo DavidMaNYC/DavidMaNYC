@@ -1,6 +1,6 @@
 ### Hi there, I'm David 👋
 
-## I'm a Full-Stack Software Engineer.
+## I'm a Software Engineer.
 
 - 👨‍💻 I love learning new technologies to expand my knowledge.
 - 👾 I’m looking to collaborate with other software engineers to build cool projects.
