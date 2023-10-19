@@ -4,7 +4,7 @@
 
 - 👨‍💻 I love learning new technologies to expand my knowledge.
 - 👾 I’m looking to collaborate with other software engineers to build cool projects.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 - 🏋️ Fun fact: I like to lift very heavy things and put them back down.
 
 ### Linkedin:
