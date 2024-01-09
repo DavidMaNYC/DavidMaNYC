@@ -2,10 +2,13 @@
 
 ## I'm a Software Engineer.
 
-- 👨‍💻 I love learning new technologies to expand my knowledge.
-- 👾 I’m looking to collaborate with other software engineers to build cool projects.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
-- 🏋️ Fun fact: I like to lift very heavy things and put them back down.
+🚀 With years of experience, I continuously explore cutting-edge technologies to lead innovation and drive industry advancements.
+
+🤝 As a seasoned software engineer, I seek to mentor and collaborate with fellow engineers, fostering a community of learning and impactful project development.
+
+🌐 2024 Goals: To leverage my expertise in contributing significantly to Open Source projects, enhancing their scalability and robustness.
+
+🏋️ Fun fact: I like to lift very heavy things and put them back down.
 
 ### Linkedin:
 
