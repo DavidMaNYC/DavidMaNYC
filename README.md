@@ -6,7 +6,7 @@
 
 🤝 As a seasoned software engineer, I seek to mentor and collaborate with fellow engineers, fostering a community of learning and impactful project development.
 
-🌐 2024 Goals: To leverage my expertise in contributing significantly to Open Source projects, enhancing their scalability and robustness.
+🌐 2025 Goals: To leverage my expertise in contributing significantly to Open Source projects, enhancing their scalability and robustness.
 
 🏋️ Fun fact: I like to lift very heavy things and put them back down.
 
